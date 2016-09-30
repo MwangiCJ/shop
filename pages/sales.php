@@ -10,7 +10,7 @@
 		<script src="js/functions.js"></script>
 	</head>
 	<body onload="getSalesReport();">
-		<br>
+		<h3>Sales</h3>
                     <form name="dateFilter">
                             From <input type="date" name="start"> 
                             To <input type="date" name="end"> 

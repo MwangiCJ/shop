@@ -22,7 +22,8 @@ if(isset($_POST['supplierName'])&&
 			td.number{text-align:right;}
 		</style>
 	</head>
-	<body>		
+	<body>	
+	<h3>Suppliers</h3>	
 		<form name = "addSupplier" method = "post" action = "">
 			Supplier Name: <input type = "text" name = "supplierName" required/>
 			Contact: <input type = "phone" name = "contact" required/> 

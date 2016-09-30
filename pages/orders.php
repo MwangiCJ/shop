@@ -5,7 +5,7 @@
 		<script src="js/functions.js"></script>
 	</head>
 	<body onload = "loadOrders();">	
-		<br>
+		<h3>Orders</h3>
 		<form name="filterOrders" action="" method="get">
 				Filter: <select name="filter" onchange="newFilter();">
 				<option value="notsent">Unsent</option>

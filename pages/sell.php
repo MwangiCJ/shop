@@ -5,7 +5,7 @@
 		<script src="js/functions.js"></script>
 	</head>
 	<body onload="addToList();">	
-		<br>	
+		<h3>Sell</h3>
 		<form name = "sellItemForm" method = "post" action = "">
 			Item:<input type = "search" onkeyup = "searchItems();" name = "searchText" placeholder="Search by name or code"/>
 			<div id="autoList"></div>

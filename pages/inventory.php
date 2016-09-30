@@ -1,4 +1,5 @@
 <title>Inventory</title>
+<h3>Inventory</h3>
 <?php
 if(isset($_POST['itemID'])&&
 	isset($_POST['itemName'])&&
