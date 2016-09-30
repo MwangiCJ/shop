@@ -22,7 +22,7 @@ function lastReceiptNumber(){
 			return $row->receiptNO;
 		}
 	}else{
-		return 1001;
+		return 0;
 	}
 }
 
