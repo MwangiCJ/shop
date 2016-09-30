@@ -26,6 +26,8 @@ items' or suppliers records' **
 
 **Add a feature to calculate profits**
 
+**Add password hasshing**
+
 
 ###License information
 **Opensource**
