@@ -20,6 +20,18 @@
   - css
   - Bootstrap css
   
+### How to install and use on your desktop
+	- Download all the files as zipped files
+	- Download and install [XAMPP](https://www.apachefriends.org/index.html)
+	- Extract the zipped file in _C:\XAMPP\htdocs\shop_
+	- Start Apache and MySQL on the XAMPP Control Panel
+	- Go to _http://localhost/phpmyadmin_ on your browser
+	- Create a new database called _pointdb_
+	- Go to import and import _pointdb.sql_ from the shop directory
+	- Go to _http://localhost/shop_ on your browser
+	- Use _Admin_ as both password and username
+	- Enjoy managing your shop
+  
 ###How this application can be improved
 **The app does not have edit feature. Feel free to add the edit feature for 
 items' or suppliers records' **
