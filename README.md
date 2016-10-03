@@ -23,7 +23,7 @@
 ### How to install and use on your desktop
   - Download all the files as zipped files
   - Download and install [XAMPP](https://www.apachefriends.org/index.html)
-  - Extract the zipped file in _C:\XAMPP\htdocs\shop_
+  - Extract the zipped file in **C:\XAMPP\htdocs\shop**
   - Start Apache and MySQL on the XAMPP Control Panel
   - Go to **http://localhost/phpmyadmin** on your browser
   - Create a new database called **pointdb**
@@ -33,13 +33,13 @@
   - Enjoy managing your shop
   
 ###How this application can be improved
-**The app does not have edit feature. Feel free to add the edit feature for 
-items or suppliers records **
+  - The app does not have edit feature. Feel free to add the edit feature for 
+items or suppliers records
 
-**Add a feature to calculate profits**
+  - Add a feature to calculate profits
 
-**Add password hasshing**
+  - Add password hasshing
 
 
 ###License information
-**Opensource**
+  - Opensource
